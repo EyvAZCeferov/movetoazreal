@@ -83,10 +83,10 @@
 
         <div class="scrollblockslider">
             <a href="/why-do-you-need-to-invest-in-azerbaijan?page=standartpages" class="sides left_scrollblockslider">
-                <span>Why Azerbaijan?</span>
+                <span>{{ convert_locale("Why Azerbaijan?") }}</span>
             </a>
             <a href="/why-should-you-choose-us?page=standartpages" class="sides right_scrollblockslider">
-                <span>Legislation of Azerbaijan</span>
+                <span>{{ convert_locale("Legislation of Azerbaijan") }}</span>
 
             </a>
         </div>
